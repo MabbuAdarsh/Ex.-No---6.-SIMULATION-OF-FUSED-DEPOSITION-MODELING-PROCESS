@@ -21,9 +21,12 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![Screenshot 2023-11-29 205529](https://github.com/MabbuAdarsh/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/149365583/f82f0f85-95dc-44e1-82a2-d4308ad62787)
+![Screenshot 2023-11-29 205635](https://github.com/MabbuAdarsh/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/149365583/728837b4-b604-481c-a67c-c0fffe17dad8)
+![Screenshot 2023-11-29 205741](https://github.com/MabbuAdarsh/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/149365583/7e91eac2-867d-4ddb-8913-4b53347e6e4a)
 
-### Name:
-### Register Number:
+### Name:MABBU ADARSH
+### Register Number:23003981
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
